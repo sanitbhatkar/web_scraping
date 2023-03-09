@@ -1,0 +1,10 @@
+product_name,price_high,Bat Cap (kW),Claimed Range (km/charge),Kerb Weight (kg),Load Carrying Capacity (kg),Motor Power (W),Top Speed (kmph),Swappable Battery,Battery Type,Drive Type,Motor Type
+Avon E Plus,25000,0.576,50,120,80,220,24,No,VRLA,Hub Motor,BLDC
+Gemopai Miso,44000,0.84,60,45,120,250,35,No,Lithium Ion,Hub Motor,BLDC
+Detel EV Easy Plus,46999,1.44,60,89,170,250,25,No,Lithium Ion,Hub Motor,BLDC
+Tunwal Elektrika 60,65040,1.56,70,,,,25,No,Lithium Ion,Hub Motor,BLDC
+Shema Tuff,70500,1.2,75,59.5,150,250,25,No,Lithium Ion,Hub Motor,BLDC
+Okinawa Dual 100,79813,2.64,120,75,150,250,25,No,Lithium Ion,Hub Motor,BLDC
+Fidato Evtech Loder,83490,1.44,70,,180,,25,No,Lithium-Ion,Hub Motor,BLDC
+Trinity Motors Saathi,93999,1.44,101,58,,250,25,No,LFP,Hub Motor,BLDC
+Komaki XGT CAT 2.0,102000,2.232,100,,350,,25,No,Lithium Ion,Hub Motor,BLDC

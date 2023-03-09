@@ -1,0 +1,186 @@
+,product_name,price_low,price_high,Battery Capacity,Battery Type,Body Type,Claimed Range,Continious Power,Drive Type,Fast Charging,Fast Charging Time,Gear Box,Gradeability,Kerb Weight,Load Carrying Capacity,Max Torque,Motor IP Rating,Motor Power (w),Motor Type,Motor Warranty,No. Of Batteries,Range (Eco Mode),Range (Normal Mode),Range (Sport Mode),Seat Type,Swappable Battery,Top Speed,Torque (Motor),Torque (Wheel),Transmission,Tyre Size,Water Proof Rating,kwh,V,Ah,kw_calc,Bat Cap
+0,Oben Rorr,103000,103000,4.4 kwh,,Electric Bikes,200 km/charge,,Belt Drive,Yes,,,,,,,,1000,IPMSM Motor,3 Years,,,,,Split,,100 kmph,,,Automatic,,IP67,4.4,,,,4.4
+1,Tork Kratos,122000,137000,4 kWh,,Electric Bikes,180 km/charge,4500 W,Mid Drive Electric Motor,Yes,,,16Â°,140 kg,150 kg,,IP67,9000,PMAC,,,120 km/charge,100 km/charge,70 km/charge,Split,,105 kmph,38 Nm,,Automatic,"Front :-90/80-17,	Rear :-120/80-17",,4,,,,4
+2,Ampere Magnus EX,81900,81900,60 V / 38.25 Ah,Lithium Ion,Electric Bikes,121 km/charge,,Hub Motor,,,,13Â°,82 kg,150 kg,,,2100,BLDC,,,83 km/charge,,,Split,,50 kmph,,,Automatic,,,,60,38.25,2.295,2.295
+3,Bounce Infinity E1,47499,96799,1.9 KWh,Lithium Ion,Electric Bikes,85 km/charge,,Hub Motor,,,,,94 kg,,,,1500,BLDC,,1,,,,Single,Yes,65 kmph,85 Nm,,Automatic,"Front :-90/90-12	Rear :-120/70-12",IP67 (Battery),1.9,,,,1.9
+4,Hero Electric Optima,67190,85190,51.2 V / 30 Ah,,Electric Bikes,140 km/charge,,Hub Motor,,,,,,,,,1200,,,,,,,Single,,45 kmph,,,,"Front :- 90/90-12,Â 	Rear :-Â 90/90-12",,,51.2,30,1.536,1.536
+5,River Indie,125000,125000,4 kWh,Lithium-Ion,Electric Bikes,120 km/charge,,Belt Drive,Yes,,,18Â°,,,,IP67,6700,Mid-Drive PMSM,,,,,,Split,,90 Kmph,26 Nm,,,,IP65,4,,,,4
+6,Matter Aera,144000,154000,5 kWh,,"Electric Bikes, Sports Bikes",125 km/charge,,Hub Motor,Yes,2 Hours,4 Speed,,,,,,10000,,,,,,,Single,Yes,,,520 Nm,Manual,,IP67,5,,,,5
+7,Ultraviolette F77,380000,550000,10.3 kWh,Lithium-ion,"Electric Bikes, Sports Bikes",307 km/charge,,Chain Drive,Yes,,Single reduction helical gear box,,207 kg,,,,32000,Permanent Magnet AC Motor,,3,261 km/charge,200 km/charge,171 km/charge,Split,Yes,152 kmph,100 Nm,,Automatic,"Front :-110/70-17	Rear :-150/60-17",IP67 ( Battery ),10.3,,,,10.3
+8,Simple One,110000,145000,4.8 kWh + 1.6 kWh,Lithium Ion,Electric Bikes,300+ km/charge,4.5 kw,Chain Drive,Yes,,,20Âº,110 kg,,,,8500,,,2,,,,Single,Yes,105 kmph,72 Nm,,Automatic,"Front :- 110/80-12,Â 	Rear :-Â 110/80-12",,6.4,,,,6.4
+9,Bajaj Chetak,122000,152000,50.4 V / 60.4 Ah,Lithium Ion,Electric Bikes,90 km/charge,4000 W,Hub Motor,,,,0.25,133 kg,,16.2 Nm @ 1400 rpm,67,4200 W,BLDC,,,90 km/charge,,80 km/charge,Single,,63 kmph,20 Nm,,Automatic,"Front :-90/90-12	Rear :-90/100-12",67,,50.4,60.4,3.04416,3.04416
+10,Revolt RV400,125000,125000,3.24 KWh,Lithium-Ion,Electric Bikes,150 km/charge,,Belt Drive,,,,,108 kg,150 kg,170 Nm,,3000,Mid Drive,,,150 km/charge,100 km/charge,80 km/charge,Split,,85 kmph,,,Automatic,"Front 90/80-17,	Rear 120/80-17",,3.24,,,,3.24
+11,Ather 450X,119000,142000,3.7 kWh,Lithium-ion,Electric Bikes,146 km/charge,3.3 kW,Belt Drive,Yes,,,20Âº,111.6 kg,,,IP 66,6200,PMSM,,,105 km/charge,85 km/charge,75 km/charge,Single,,"90 kmph (Display), 80 kmph (Actual)",26 Nm,,Automatic,"Front :-90/90-12, 	Rear :-100/80-12",IP67,3.7,,,,3.7
+12,TVS iQube Electric,161000,161000,4.56 kwh,Lithium Ion,Electric Bikes,145 km/charge,3 KW,Hub Motor,Yes,2 Hour 50 Min - 80%,,10Â°,128 kg,,,IP67,4400,BLDC,,,145 km/charge,,110 km/charge,Single,,82 kmph,33 Nm,140 Nm,Automatic,"Front :-90/90-12	Rear :-90/90-12",IP67 (Battery),4.56,,,,4.56
+13,Ola S1,133000,133000,3 kWh,,Electric Bikes,128 km/charge,5.5 kw,Belt Drive,Yes,,,15Â°,121 kg,,,,8500,Mid Drive IPM,,,141 km/charge,,,Single,,95 kmph,58 Nm,,Automatic,"Front :- 110/70-12,Â 	Rear :-Â 110/70-12",IP67,3,,,,3
+14,Vida V1,128000,139000,3.94 kWh,,Electric Bikes,165 km/charge,3.9 kW,Hub Motor,Yes,65 minutes ( 0-80 ),,20Â°,125 kg,,25 Nm,IP68,6000,PMSM,,2,,,,Single,Yes,80 kmph,,,,,IP67 ( Battery ),3.94,,,,3.94
+15,Okinawa Okhi90,186000,186000,3.6 kWh,Lithium Ion ( Detachable Battery ),Electric Bikes,160 km/charge,,Hub Motor,,,,12Â°,,250 kg,,IP65,3800,,,,,,,Single,,80-90 kmph,,,Automatic,"Front :-100/80-16	Rear :-120/80",,3.6,,,,3.6
+16,Avon E Scoot,45000,45000,48 V/20 Ah,VRLA,Electric Bikes,65 km/charge,,Hub Motor,,,,,,120 Kg,,,215,BLDC,,,,,,Single,,24 kmph,,,Automatic,"Front :-3.00-16,	Rear :-3.00-16",,,48,20,0.96,0.96
+17,Kabira Mobility KM 3000,123000,123000,4.0 kWh,Lithium Ion,Electric Bikes,120 km/charge,6000 W,Hub Motor,Yes,0-80 %  50 min,,19Â°,112 kg,100 kg,,IP67,3500,BLDC,,,120 km/charge,95 km/charge,60 km/charge,Split,,100 kmph,,,,,IP65,4,,,,4
+18,Avon E Plus,25000,25000,48 V/12 Ah,VRLA,"Electric Bikes, Moped Bikes",50 km/charge,,Hub Motor,,,,,,80 Kg,,,220,BLDC,,,,,,Single,,24 kmph,,,Automatic,"Front :-2.125-18,	Rear :-2.125-18",,,48,12,0.576,0.576
+19,Hero Electric Photon,86390,86390,72 V/20 Ah,Li-ion,Electric Bikes,60 km/charge,,,,,CVT,,116 kg,,,,1000-1400 W,,,,,,,Single,,45 kmph,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,72,20,1.44,1.44
+20,PURE EV EcoDryft,115000,115000,3 kWh,Lithium-Ion,"Electric Bikes, Commuter Bikes",80 - 130 km/charge,2.0 kw,Hub Motor,,,,12 Degrees,101 kg,140 kg,,,3000,,,,,,,Single,,75 kmph,40 Nm,,,"Front :-80/100-18,	Rear :- 80/100-17",,3,,,,3
+21,One Electric Motorcycles Kridn,135000,135000,3 kWh,Lithium Ion,Electric Bikes,110+ km/charge,,,,,,,,,160+ Nm,,5500,,,,110+ km/charge,80 km/charge,,Single,,95 kmph,,,,"Front :-80/100-17,	Rear :- 120/80-16",,3,,,,3
+22,Okinawa R30,61998,61998,1.25 KWH,Lithium-Ion,Electric Bikes,60 km/charge,250 W,Hub Motor,,,,,,150 kg,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,"Front :-3.00 Â– 10,	Rear :- 3.00 Â– 10",,1.25,,,,1.25
+23,Okinawa iPraise+,146000,146000,3.3 KWH,Lithium Ion,Electric Bikes,139 km/charge,1000,Belt Drive,,,,7Â°,,150 kg,,IP65,2500,BLDC,,,,139 km/Charge,,Single,,58 kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",,3.3,,,,3.3
+24,Hero Electric NYX,73590,86540,48 V/56 Ah,Lithium-Ion,Electric Bikes,100 km/charge,,Hub Motor,,,CVT,,87 kg,,,,600 - 1300 W,,,,,,,Single,,42 kmph,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,48,56,2.688,2.688
+25,Odysse Electric Evoqis,171000,171000,4.32 kWh,Lithium-Ion,Electric Bikes,,4300 W,Hub Motor,,,,,,170 kg,,,3000,,,,,,,Split,,80 kmph,64 Nm,,,"Front :-110/70-17,	Rear :- 140/70-17",,4.32,,,,4.32
+26,Kinetic Green Zing,71500,84990,60 V / 28 Ah,Lithium Ion,Electric Bikes,100 km/charge,,Hub Drive,,,,10Â°,,150 kg,,,250,BLDC,,,,,,Single,,45 kmph,,,,"Front :-100/90 - 10	Rear :-100/90 10",,,60,28,1.68,1.68
+27,Ampere Primus,110000,110000,3.8 Kwh,LFP,Electric Bikes,107 km/charge,,Mid Mount Motor,,,,7Â°,130 kg,150 kg,,,3400 / 4000,,,,,,,Single,,77 kmph,,,,,,3.8,,,,3.8
+28,Kinetic Green Zoom,75100,82500,60 V / 28 Ah,Lithium Ion,Electric Bikes,100 km/charge,,Hub Motor,,,,10Â°,,150 kg,,,250,BLDC,,,,,,Single,,40 kmph,,,,"Front :-100/90 - 10	Rear :-100/90 10",,,60,28,1.68,1.68
+29,Okinawa PraisePro,99645,99645,2.0 kWh,Lithium Ion,Electric Bikes,88 km/charge,1000 W,Hub Motor,,,,7Â°,,150 kg,,,2500,BLDC,3 Years - 30000 km,,,,88 km/charge,Single,,58 kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",,2,,,,2
+30,Birla Quanto,69182,101000,35 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,Yes,,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,60,35,,2.1
+31,Okaya Faast F2T,84999,84999,72 V / 30 Ah,Lithium Ferrous Phosphate,Electric Bikes,80 - 85 Km/charge,250 W,Hub Motor,Yes,,,,,,,,1200 W,BLDC,,,,,,Single,,70 kmph,,,Automatic,,,,72,30,2.16,2.16
+32,Birla E-Smart,71780,104000,35 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,Yes,,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,60,35,,2.1
+33,Lohia Oma Star,41444,41444,48V/20 Ah,VRLA,Electric Bikes,60 km/charge,,Hub Motor,,,,,,,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,"Front :-3.00-16,	Rear :-3.00-16",,,48,20,0.96,0.96
+34,Evolet Dhanno,76999,76999,1.8 Kwh,,Electric Bikes,80-100 km/charge,,Hub Motor,,,,7Â°,80 kg,150 kg,,,250,BLDC,1 Year 6 Months,,,,,Single,,25 kmph,,,,"Front :-90/100-10,	Rear :-90/100-10",,1.8,,,,1.8
+35,Komaki Flora,78999,78999,nan,LIPO4,Electric Bikes,75-100 Km/charge,,Hub Motor,,,,,,,,,3000,"Interior Permanent Magnet, Brushless Motor",,,,,,Single,,,,,Automatic,"Front :-90/100-10	Rear :-90/100-10",,,,,,
+36,Deltic Drixx,58490,84990,60.8 V / 26 Ah,Lithium Ion,Electric Bikes,70 - 100 km/charge,,,,,,7Â°,57 kg,,,,250,BLDC,1 Years,1,,,,Single,,25 kmph,,,Automatic,"Front :-3-10,	Rear :-3-10 - 18",,,60.8,26,1.5808,1.5808
+37,Okinawa Dual 100,79813,79813,48 V / 55 Ah,,"Electric Bikes, Moped Bikes",110 -120 Km/Charge,250,Hub Motor,,,,,,150 kg,,,250,BLDC,3 Years or 30000 km,,,60 km/charge,,Split,,25 kmph,,,Automatic,"Front :- 3.0 - 10,Â 	Rear :-Â 3.0 - 10",,,48,55,2.64,2.64
+38,Kabira Mobility KM 4000,137000,137000,4.4 kWh,Lithium ion,Electric Bikes,150 km/charge,8000 W,Hub Motor,Yes,0-80 %  50 min,,19Â°,,,,IP67,5000,BLDC,,,150 km/charge,110 km/charge,90 km/charge,Split,,120 kmph,,,Automatic,,IP65,4.4,,,,4.4
+39,Komaki XGT KM,42500,93045,nan,Lithium-Ion,Electric Bikes,130 - 150km/charge,,Hub Motor,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,,60,28,,1.68
+40,Rowwet Rame,115000,115000,60 V / 30 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,2000,,,,145 km/charge,125 km/charge,,Single,,55 kmph,,,,,,,60,30,1.8,1.8
+41,Trinity Motors Mitra,73999,79999,48 V / 30 ah,LFP,Electric Bikes,,,Hub Motor,,,,10 degree,58 kg,,,,250,,,,,,,Single,,25 kmph,,,,,,,48,30,1.44,1.44
+42,Rowwet Vegatron,125000,125000,72 V / 28 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,2000,,,,145 km/charge,120 km/charge,,Single,,65 kmph,,,,,,,72,28,2.016,2.016
+43,Rowwet Zepop,61770,78500,72 V / 30 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,2000,,,,145 km/charge,120 km/charge,,Single,,65 kmph,,,,,,,72,30,2.16,2.16
+44,Lectrix EV Lectrix LXS,74999,74999,48 V / 40 Ah,Lithium-Ion,Electric Bikes,89 km/charge,1200 W,,Yes,2.5 - 3 Hours,,12 Degree,,155 kg,12 Nm,,1900,BLDC,,,75 km/charge,,60 km/charge,,,50 kmph,,,,"Front :-90/100-10	Rear :-110/90-10",,,48,40,1.92,1.92
+45,Aeroride Aero,61445,79445,60 V / 30 Ah,Lithium-Ion,Electric Bikes,60-100 km/charge,,,,,3 Forward & 1 Reverse,13 Degree,58 Without Battery,200 kg,,,,,,1,,,,Single,,,,,Automatic,"Front :-90/100 - 10	Rear :-90/100 - 10",,,60,30,1.8,1.8
+46,Benling Believe,97520,97520,3.2 Kwh,LFP/NCM,Electric Bikes,,3000,,,,,18 Degree,,248kg,,,3200,BLDC,,,120 km/charge,,70-75 km/charge,Split,Yes,75 kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",,3.2,,,,3.2
+47,Birla Ambition,73817,108000,35 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Split,Yes,,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,60,35,,2.1
+48,Atumobile AtumVader,99999,99999,2.3 kwh,Lithium Ion,"Electric Bikes, Cafe Racer Bikes",100 km/charge,,Hub Motor,,,,7 Degree,100 kg,,,,2700,BLDC,,,100 km/charge,82 km/charge,,Single,Yes,65 kmph,110 Nm,,,"Front :-100/90-17	Rear :-100/90-17",,2.3,,,,2.3
+49,Komaki XGT X4,102000,124000,72 V / 31 Ah,Lithium Ion,Electric Bikes,180-220km/charge,,,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,,72,31,2.232,2.232
+50,Tunwal TEM G33,92000,92000,"60 V, 20 Ah",,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,,,,,,"Front :-3.50-10	Rear :-3.50-10",,,60,20,1.2,1.2
+51,iVOOMi Eco,71999,81999,60 V / 35 Ah,Lithium Ion,Electric Bikes,75-90 km/charge,,Hub Motor,,,,14 Degree,70 kg,150 kg,,IP67,250,,,,,,,Single,Yes,25 kmph,,,,"Front :-3.00-10	Rear :-3.00-10",,,60,35,2.1,2.1
+52,Trinity Motors Rafiki,69999,76999,48 V / 30 Ah,Lithium-Ion,Electric Bikes,75 km/charge,,,,,,10 Degree,58.9 kg,200 kg,,,,Brand Motor,,,,,,Single,,25 kmph,,,Automatic,"Front :-90/100-10	Rear :-90/100-10",,,48,30,1.44,1.44
+53,Wroley Platina,73700,73700,60 V/30 Ah,Lithium-ion,Electric Bikes,90 km/charge,,Hub Motor,,,,15 Degree,,200 kg,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,"Front :-90/100-10,	Rear :-90/100-10",,,60,30,1.8,1.8
+54,BGauss D15,99999,113000,3.2 kWh,"Primery - Lithium Ion, Secondary - VRLA",Electric Bikes,115 km/charge,1500 W,Hub Motor,Yes,1 hours 30 minutes,,10Â°,109 kg,,110 Nm,IP67,3100,BLDC,,2,,,,Single,Yes,60 kmph,,,,"Front :-2.50-16,	Rear :-2.75-16",IP 67,3.2,,,,3.2
+55,Evolet Pony,57999,57999,1.4 Kwh,,Electric Bikes,80 km/charge,,Hub Motor,,,,9Â°,76 kg,150 kg,,,250,BLDC,1 Year 6 Months,,,,,Single,,25 kmph,,,,"Front :-90/100-10,	Rear :-90/100-10",,1.4,,,,1.4
+56,Ola S1 Air,84999,84999,2.5 kWh,,Electric Bikes,101 km/charge,4.5 kw,Belt Drive,Yes,,,15Â°,99 kg,,,,,Mid Drive IPM,,,,76 km/charge,,Single,,90 kmph,,,Automatic,"Front :- 110/70-12,Â 	Rear :-Â 110/70-12",IP67,2.5,,,,2.5
+57,Jitendra JET 320,73480,77060,1.56 Kwh,Lithium Ion,Electric Bikes,60-70 km/charge,,Hub Motor,,,,3-4 Degree,67 kg,150 kg,,IP 65,250,BLDC,3 Years,1,,,,Single,Yes,25 kmph,,,Automatic,"Front :-90/90-10	Rear :-90/90-10",,1.56,,,,1.56
+58,Trinity Motors Rafiki ZL3,84855,91111,nan,,Electric Bikes,,,Belt Drive,,,,,,,,,1000,,,,,,,Single,,50 kmph,,,Automatic,,,,,,,
+59,Gemopai Miso,44000,44000,48 V/17.5 Ah,Lithium Ion,"Electric Bikes, Moped Bikes",60-75 km/charge,,,,,,18Â°,45 kg,120 kg,,,250,,,,,,,Single,,25-35 kmph,,,Automatic,,,,48,17.5,0.84,0.84
+60,Tunwal Storm ZX Advance 1,115000,115000,60 V/26 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,,,,,,"Front :-3.00-10	Rear :-3.00-10",,,60,26,1.56,1.56
+61,EVeium COSMO,144000,144000,"72 V, 30 Ah",Lithium Ion,Electric Bikes,80 km/charge,,Hub Motor,,,,,102 kg,150 kg,,,2000,BLDC,,,,,,Single,,65 kmph,,,,"Front :-90/90-12 	Rear :-90/90-12",,,72,30,2.16,2.16
+62,BGauss B8,84699,89991,1.73 kwh,Lithium Ion,Electric Bikes,70 km/charge,1800 W,Hub Motor,,,,11 Degree,,130 kg,94.6 Nm,IP 67,1900,BLDC,,,77 km,,,Single,Yes,50 kmph,,,Automatic,,IP 65,1.73,,,,1.73
+63,EVeium COMET,192000,192000,"72 V, 50 Ah",Lithium Ion,Electric Bikes,150 km/charge,,Hub Motor,,,,,115 kg,150 kg,,,3000,BLDC,,,,,,Single,,85 kmph,,,,"Front :-90/90-12 	Rear :-90/90-12",,,72,50,3.6,3.6
+64,Trinity Motors Yaarii,69999,76999,48 V / 30 Ah,LFP,Electric Bikes,75 km/charge,,,,,,10 Degree,58 kg,200 kg,,,,Brand Motor,,,,,,Single,,25 kmph,,,Manual,"Front :-90/100-10	Rear :-90/100-10",,,48,30,1.44,1.44
+65,Ozotec Flio,114000,133000,nan,,Electric Bikes,,,Hub Motor,Yes,,,,,,,,,,,,,,,Single,,,,,,,,,,,,3
+66,Joy e-bike Monster,110000,110000,72 V / 23 Ah,Lithium-Ion (Fixed Type),Electric Bikes,75 km/charge,,Hub Motor,,,,,93 kg,,30 Nm,,250,DC Brushless,,,,,,Single,,25 kmph,,,Automatic,"Front :-120/70-12,	Rear :-130/70-12",,,72,23,1.656,1.656
+67,Srivaru Motors Prana,225000,300000,7.2 kwh,,"Electric Bikes, Sports Bikes",225 km/charge,,Hub Motor,,,,,165 kg,180 kg,,,,BLDC,,,,,,Split,,123 kmph,,,,,,7.2,,,,7.2
+68,Hayasa Ojas,80550,80550,nan,,Electric Bikes,90 km/charge,,Hub Motor,,,,,,150 kg,,,230,,,,,,,Single,,25 kmph,,,,"Front :-3.00 - 10	Rear :-3.00 - 10",,,,,,
+69,Tunwal Storm ZX,90000,90000,60 V/26 Ah,Lithium Ion,Electric Bikes,75-120 km/charge,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,,,,,,"Front :-3.00-10	Rear :-3.00-10",,,60,26,1.56,1.56
+70,Fidato Evtech 21,89199,89199,72V/30 Ah,Lithium-Ion,Electric Bikes,80-110 km/charge,,Hub Motor,,,,,,200 kg,,,,Brushless DC,,,,,,Single,,,,,,"Front :-90/100-12	Rear :-90/100-12",,,72,30,2.16,2.16
+71,Hayasa Ira,76750,76750,nan,,Electric Bikes,90 km/charge,,Hub Motor,,,,,,150 kg,,,230,,,,,,,Single,,25 kmph,,,,"Front :-3.00 - 10	Rear :-3.00 - 10",,,,,,
+72,Tunwal Sport 63 Mini,49990,49990,48 V/26 Ah,Lithium Ion,Electric Bikes,55-70 km/charge,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,,,,,,"Front :-3.00-10	Rear :-3.00-10",,,48,26,1.248,1.248
+73,Detel EV Easy Plus,46999,46999,20 Ah,Lithium Ion,"Electric Bikes, Moped Bikes",60 km/charge,,Hub Motor,,,,,,170 kg,,,250,,1 Year,,,,,Single,,25 kmph,,,Automatic,"Front :-2.5 - 16	Rear :-2.5 - 16",,1.44,,,,1.44
+74,Hayasa Daksha,74050,74050,nan,,Electric Bikes,90 km/charge,,Hub Motor,,,,,,150 kg,,,230,,,,,,,Single,,25 kmph,,,,"Front :-3.00 - 10	Rear :-3.00 - 10",,,,,,
+75,Trinity Motors Friend,104000,113000,nan,,Electric Bikes,,,Belt Drive,,,,,,,,,1500,,,,,,,Single,,72 kmph,,,Automatic,,,,,,,3
+76,Tunwal Mini Lithino,54990,54990,48 V/26 Ah,Lithium Ion,Electric Bikes,55-70 km/charge,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,,,,,,"Front :-3.00-10	Rear :-3.00-10",,,48,26,1.248,1.248
+77,GT One Plus,68982,86970,60 V / 26 Ah,Lithium Ion,Electric Bikes,60-65 km/charge,,Hub Motor,,,,9 Degree,98 kg,150 kg,,,250,BLDC,18 Months,1,60-65 km/charge,,,Single,,25 kmph,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,60,26,1.56,1.56
+78,Fidato Evtech Future 2020,70300,70300,60V/28 Ah,Lithium-Ion,Electric Bikes,60-80 km/charge,,Hub Motor,,,,,,180 kg,,,,Brushless DC,,,,,,Single,,,,,,"Front :-90/100-10	Rear :-90/100-10",,,60,28,1.68,1.68
+79,GT Flying,54338,77763,60 V / 26 Ah,Lithium Ion,Electric Bikes,60-65 km/charge,,Hub Motor,,,,9 Degree,82 kg,130 kg,,,,BLDC,18 Months,,,,,Single,,,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,60,26,1.56,1.56
+80,Birla A 1-4,160000,228000,105 Ah,Lithium Ion,Electric Bikes,,,,,,,,,,,,,,,,,,,Split,,,,,Automatic,,,,,105,,
+81,Komaki DT 3000,121000,121000,72 V / 46 Ah + 62 V / 52 Ah,Lithium Ion,Electric Bikes,140-160 km/charge,,,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,,72,46,3.312,3.312
+82,GT Prime,57417,77763,60 V / 26 Ah,Lithium Ion,Electric Bikes,60-65 km/charge,,Hub Motor,,,,9 Degree,85 kg,,,,,BLDC,18 Months,,,,,Single,,,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,60,26,1.56,1.56
+83,AMO Electric Inspirer,57626,86626,60 V/34 Ah,Lithium Ion,Electric Bikes,80-90 km/charge,,,Yes,,,18Â°,62 kg,,,,249,Brushless DC,,,,,,Single,,25 kmph,,,Automatic,"Front :-3.00-10,	Rear :-3.00-10",,,60,34,2.04,2.04
+84,NIJ Automotive  Flion,57788,76763,nan,Lithium Ion,Electric Bikes,,,Hub Motor,,,,12 Degree,86 kg,150 kg,,,250,BLDC,,,,,,Single,,,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,,,,
+85,Kabira Mobility Kollegio Plus,65490,65490,60 V/35 Ah,Lithium Ion,Electric Bikes,110 km/charge,,Hub Motor,Yes,,,,,,,,250,BLDC,1 Year,,,,,Single,,24 kmph,,,Automatic,,,,60,35,2.1,2.1
+86,Aeroride E-Spark,69445,112000,60 V / 30 Ah,Lithium-Ion,Electric Bikes,,,,,,,,58 Without Battery,,,,,,,2,,,,,,,,,Automatic,,,,60,30,1.8,1.8
+87,AMO Electric Jaunty Plus,74460,74460,60 V / 40 Ah,Lithium Ion,Electric Bikes,120 km/charge,,,Yes,,,18 Degree,82 kg,,,,1265,Brushless DC,,,,,,Single,,50 kmph,,,Automatic,"Front :-3.00-10,	Rear :- 3.00-10",,,60,40,2.4,2.4
+88,Li-ions Elektrik Solutions Li-ions Spock Electric Scooter,65000,65000,72 V/ 40 Ah,Lithium ion,Electric Bikes,50 - 130 km/charge,,Hub Motor,,,,,90 kg,160 kg,230 Nm,,2000,BLDC,,,,,,Single,,45 kmph,,,Automatic,"Front :-90/90 -12	Rear :-90/90 -12",,,72,40,2.88,2.88
+89,GT Soul,52861,75350,60 V / 26 Ah,Ltthium Ion,Electric Bikes,60-65 km/charge,,Hub Drive,,,,9 Degree,95 kg,130 kg,,,,BLDC,18 Month,,,,,Single,,,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,60,26,1.56,1.56
+90,AMO Electric Jaunty,65064,90064,60 V/34 Ah,Lithium Ion,Electric Bikes,80-90 km/charge,,Hub Motor,Yes,,,,62 kg,,,,249,Brushless DC,,,,,,Single,,25 kmph,,,Automatic,"Front :-3.00-10,	Rear :-3.00-10",,,60,34,2.04,2.04
+91,Rowwet Trono,181000,181000,72 V / 40 Ah,Lithium Ion,"Electric Bikes, Sports Bikes",,,Hub Motor,,,,,,,,,3000,,,,,100 km/charge,,Split,,100 kmph,,,,,,,72,40,2.88,2.88
+92,Komaki XGT Classic,111000,111000,nan,Lithium Ion,Electric Bikes,105 km/charge,,,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,,,,,2.1
+93,Thunderbolt EZ,57999,57999,60 V / 25 Ah,Lithium-Ion,Electric Bikes,80-90 Km/charge,,Hub Motor,,,,,,,,,,,,,,,,Single,,,,,,,,,60,25,1.5,1.5
+94,Kabira Mobility Kollegio,45990,45990,48 V/24 Ah,Lithium Ion,Electric Bikes,100 km/charge,,Hub Motor,,,,,,,,,250,BLDC,1 Year,,,,,Single,,24 kmph,,,Automatic,,,,48,24,1.152,1.152
+95,Raftaar Bumblebee,88000,88000,64 V / 30 Ah,LFP,Electric Bikes,100 km/charge,,Hub Motor,,,,25 Degree,,,,,250,BLDC,,,,,,Single,Yes,,,,,"Front :-90/100-10,	Rear :-90/100-10",,,64,30,1.92,1.92
+96,Zelio Eeva,54575,57475,60 V/26-40 Ah,Lithium Ion,Electric Bikes,60-120 km/charge,,,,,,,118 kg,150 kg,,,,,,,,,,Single,,,,,,"Front :-90/100-10,	Rear :-90/100-10",,,60,40,2.4,2.4
+97,Poise Grace,87542,93465,"60 V, 42 Ah",Lithium Ion,Electric Bikes,110-140 km/charge,,Hub Motor,,,,,,,,,800,,,,120 km/charge,,,Single,Yes,50 kmph,,,,,,,60,42,2.52,2.52
+98,Odysse Electric Racer,85000,85000,72V/28 Ah,Maintenance Free,Electric Bikes,70 km/charge,,Hub Motor,,,,,,150 kg,,,1200,,,,,,,Single,,45 kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",,,72,28,2.016,2.016
+99,NDS ECO MOTORS Lio Plus,124000,124000,72V/21 Ah,Lithium Ion,Electric Bikes,165 km/charge,,Hub Motor,,,,,100 kg,,152.78 Nm @ 100 rpm,,1600,BLDC,,2,225 km/charge,190 km/charge,165 km/charge,Single,,55 kmph,152.78Nm @ 100rpm,,Automatic,"Front :-90/90-12,	Rear :-90/90-12",,,72,21,1.512,1.512
+100,Numeros Motors Diplos,60265,128000,3.8 Kwh,NMC,Electric Bikes,100 km/charge,1500,,Yes,,,14 Degree,135 kg,102 kg,,,2700,Hub Motor,,2,90+ km/charge,75+ km/charge,,Single,Yes,65 Kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",IP67,3.8,,,,3.8
+101,iVOOMi S1,84999,84999,60 V / 35 Ah,Lithium Ion,Electric Bikes,100- 115 km/charge,,Hub Motor,,,,18 Degree,78 kg,180 kg,,,2000,,,,115 km/charge,,,Single,Yes,55 kmph,,,,"Front :-90-90/10	Rear :-90-100/10",,,60,35,2.1,2.1
+102,Rowwet Eleq,116000,116000,72 V / 30 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,2000,,,,145 km/charge,120 km/charge,,Single,,65 kmph,,,,,,,72,30,2.16,2.16
+103,Velev Motors VIO,52000,52000,48 V/20 Ah,,Electric Bikes,60-70 km/charge,,Hub Motor,,,,,,,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,,,,48,20,0.96,0.96
+104,Komaki LY,95866,95866,62 V / 34 Ah,Lithium Ion,Electric Bikes,80-85km/charge,,Hub Motor,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,,62,34,2.108,2.108
+105,Merico Fashia,61311,61311,60 V,VRLA,Electric Bikes,,,Hub Motor,,,,12Â°,58.60 kg,150 kg,,,250 W,BLDC,,,,,,Single,,,,,Automatic,"Front :-3-10	Rear :-3-10",,,,,,
+106,Benling Aura,94296,94296,72 V / 40 Ah,LFP/NCM,Electric Bikes,120 Km/charge,3000,Hub Drive,Yes,,,18Â°,,248 kg,,,3200,BLDC,,,120 Km/charge,,70-75 km/charge,Single,Yes,65 kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",,,72,40,2.88,2.88
+107,Kabira Mobility Aetos 100,65490,65490,60 V/35 Ah,Lithium Ion,Electric Bikes,110 km/charge,,Hub Motor,Yes,,,,,,,,250,BLDC,1 Year,,,,,Single,,24 kmph,,,Automatic,,,,60,35,2.1,2.1
+108,Thunderbolt Bee Plus,86999,86999,nan,NMC,Electric Bikes,,,Hub Motor,,,,,,150 kg,,,,,,,,,,Single,,60 Kmph,,,,,,,,,,
+109,Avon E Mate,45000,45000,48 V/20 Ah,VRLA,Electric Bikes,65 km/charge,,Hub Motor,,,,,,120 Kg,,,188,BLDC,,,,,,Single,,18 kmph,,,Automatic,"Front :-3.00-10,	Rear :-3.00-10",,,48,20,0.96,0.96
+110,EVeium CZAR,216000,216000,"72 V, 42 Ah",Lithium Ion,Electric Bikes,150 km/charge,,Hub Motor,,,,,115 kg,150 kg,,,4000,BLDC,,,,,,Single,,85 kmph,,,,"Front :-120/70-12	Rear :-120/70-12",,,72,42,3.024,3.024
+111,Deltic Trento,127000,127000,72 V / 36 Ah,Lithium-Ion,Electric Bikes,75 km/charge,3000,,,,,10 Degree,85 kg (Without Bettery),,,,1800,BLDC,1 Years,1,,,,Single,,45 kmph,,,,,,,72,36,2.592,2.592
+112,Stella Automobili BUZZ,95000,95000,2.16 kWh,Lithium Ion,Electric Bikes,90 km/charge,,Hub Motor,,,,,,150 kg,,,2000,BLDC,,,,,,Single,,55 kmph,,,,,,2.16,,,,2.16
+113,Raftaar Galaxy,51900,51900,64 V / 30 Ah,LFP,Electric Bikes,100 km/charge,,Hub Motor,,,,25 Degree,,,,,250,BLDC,,,,,,Single,Yes,,,,,"Front :-90/100-10,	Rear :-90/100-10",,,64,30,1.92,1.92
+114,Tunwal Elektrika 60,65040,65040,60 V/26 Ah,Lithium Ion,"Electric Bikes, Moped Bikes",70-120 km/charge,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,,,,,,"Front :-3.00-12	Rear :-3.00-12",,,60,26,1.56,1.56
+115,Avon E Star,60000,60000,48 V/33 Ah,Lead Acid,Electric Bikes,65 km/charge,,Hub Motor,,,,,,120 kg,,,1000,BLDC,,,,,,Single,,50 kmph,,,Automatic,"Front :-3.00-10,	Rear :-3.00-10",,,48,33,1.584,1.584
+116,Hayasa Nirbhar,65550,65550,nan,,"Electric Bikes, Moped Bikes",90 km/charge,,Hub Motor,,,,,,150 kg,,,230,,,,,,,Single,,25 kmph,,,,"Front :-3.00 - 10	Rear :-3.00 - 10",,,,,,
+117,DAO 703,99999,99999,60 V/30 Ah,Lithium Ion,Electric Bikes,100 km/charge,,Hub Motor,,,,13 degree,85 kg,150 kg,,,3500,BLDC,,,,,,Single,,70 kmph,,,Automatic,"Front :-120/70-12	Rear :-100/80-12",,,60,30,1.8,1.8
+118,RBSeVA Legend,77230,77230,60 V/30 Ah,Lithium Ion,Electric Bikes,80-100 km/charge,,Hub Motor,,,,,,Up to 200 kg,,,,,,,,,,Single,,,,,Automatic,,,,60,30,1.8,1.8
+119,Shema Tuff,70500,70500,48 V / 25 Ah,Lithium Ion,"Electric Bikes, Moped Bikes",75 km,,Hub Motor,,,,10 Degress,,150 kg,,,250,,,,,,,,,25 kmph,,,Automatic,"Front :-3.00 - 16	Rear :-3.00 - 16",,,48,25,1.2,1.2
+120,Birla DMS,163000,231000,105 Ah,Lithium Ion,Electric Bikes,,,,,,,,,,,,,,,,,,,,,,,,Automatic,,,,,105,,
+121,Trinity Motors Saathi,85999,93999,48 V / 30 ah,LFP,"Electric Bikes, Moped Bikes",,,Hub Motor,,,,10 degree,58 kg,,,,250,,,,,,,Single,,25 kmph,,,,,,,48,30,1.44,1.44
+122,Shema Fly,61000,61000,48 V / 25 Ah,Lithium Ion,Electric Bikes,75 Kms,,Hub Motor,,,,10 Degress,,150 kg,,,250,,,,,,,Single,,25 Kmph,,,Automatic,"Front :-3.00 - 16	Rear :-3.00 - 16",,,48,25,1.2,1.2
+123,DAO Zor 405,77349,77349,60 V/20 Ah,Lithium Ion,Electric Bikes,70 km/charge,,Hub Motor,,,,13 degree,80 kg,250 kg,,,2100,BLDC,,,,,,Single,,45 kmph,,,Automatic,"Front :-3.00-10	Rear :-90/90-12",,,60,20,1.2,1.2
+124,iGowise Mobility iGowise BeiGo X4,110000,110000,nan,,Electric Bikes,150 km/charge,,Hub Motor,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,,,,,
+125,M2GO X1,111000,111000,60 V/26 Ah,Lithium-Ion,Electric Bikes,120 km/charge,,Hub Motor,,,,,,180 kg,,,2020,,,,,,,Single,,50 kmph,,,Automatic,,,,60,26,1.56,1.56
+126,Odysse Electric E2Go,59750,71100,60V/28 Ah,Lithium-Ion,Electric Bikes,60 km/charge,,Hub Motor,,,,,,,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,,,,60,28,1.68,1.68
+127,GT One,62850,85945,60 V / 26 Ah,Lithium Ion,Electric Bikes,60 - 65 km/hours,,Hub Motor,,,,9 Degree,88 kg,140 kg,,,,BLDC,18 Month,,,,,,,,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,60,26,1.56,1.56
+128,Joy e-bike Wolf,79900,79900,60 V / 23 Ah,Lithium-Ion,Electric Bikes,60 km/charge,,Hub Motor,Yes,,,,67 kg,140 kg,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,,,,60,23,1.38,1.38
+129,Benling Kriti,64151,64151,48 V / 28 Ah,Lithium-ion,Electric Bikes,60 km/charge,1200,Hub Motor,,,,8 Degree,66 kg,248 kg,,,250,Brushless Motor,,,60-70 km/charge,,60 km/charge,Single,Yes,25 kmph,,,Automatic,"Front :-90/90-12	Rear :-90/90-12",,,48,28,1.344,1.344
+130,Okaya Faast F2B,91999,91999,72 V / 30 Ah,Lithium Ferrous Phosphate,Electric Bikes,80 - 85 km/charge,1200 W,,Yes,,,,,,,,2500,BLDC,3 Years,1,,,,Single,Yes,70 kmph,,,,,,,72,30,2.16,2.16
+131,Kabira Mobility Intercity Aeolus,71490,71490,60 V/35 Ah,Lithium-Ion,Electric Bikes,110 km/charge,,Hub Motor,Yes,,,,,,,,250,BLDC,1 Year,,,,,Single,,24 kmph,,,Automatic,,,,60,35,2.1,2.1
+132,Ujaas eGo LA,34880,39880,60 V/26 Ah,Lead Acid,Electric Bikes,75 km/charge,,Hub Motor,,,,,,,,,250,,,,,,,Single,,,,,Automatic,"Front :-3.10-10,	Rear :-3.10-10",,,60,26,1.56,1.56
+133,RBSeVA Rider New,70750,70750,60 V/24 Ah,Lithium Ion,Electric Bikes,70-80 km/charge,,Hub Motor,,,,,,Up to 200 kg,,,,,,,,,,Single,,,,,Automatic,,,,60,24,1.44,1.44
+134,Fidato Evtech EasyGo Plus,95605,95605,60V/30 Ah,Lithium-Ion,Electric Bikes,80-110 km/charge,,Hub Motor,,,,,,200 kg,,,,Brushless DC,,,,,,Single,,,,,,"Front :-90/100-12	Rear :-90/100-12",,,60,30,1.8,1.8
+135,Shema Zoom,67000,67000,48V / 25Ah,Lithium Ion,Electric Bikes,75 km,,,,,,10 Degress,,150 kg,,,250,,,,,,,,,25 kmph,,,Automatic,"Front :-3.00 - 16	Rear :-3.00 - 16",,,48,25,1.2,1.2
+136,EeVe Atreo,68999,68999,72 V / 27 Ah,Lead Acid,Electric Bikes,75-85 km/charge,,Hub Motor,,,,,101 kg,140 kg,,,250,BLDC,,,,,,Single,,25 Kmph,,,Automatic,"Front :-90/100-10,	Rear :-90/100-10",,,72,27,1.944,1.944
+137,EeVe Ahava,62499,62499,60 V / 27 Ah,Lead Acid,Electric Bikes,60-70 km/charge,,Hub Motor,,,,,94 kg,140 kg,,,250,BLDC,,,,,,Single,Yes,25 Kmph,,,Automatic,"Front :-90/100-10,	Rear :-90/100-10",,,60,27,1.62,1.62
+138,Stella Automobili SA 2000,86000,94000,nan,Lithium Ion,Electric Bikes,60-70 km/charge,,Hub Motor,,,,,,150 kg,,,250,BLDC,2 Year,,,,,Single,,,,,Automatic,"Front :-3.00-10,	Rear :- 3.00-10",,,,,,
+139,Birla DMG,237000,305000,105 Ah,Lithium Ion,Electric Bikes,,,,,,,,,,,,,,,,,,,,,,,,Automatic,,,,,105,,
+140,Velev Motors VEV 01,32500,32500,48 V/24 Ah,Sealed Lead Acid,Electric Bikes,75-80 km/charge,,Hub Motor,,,,,34 kg,100 kg,,,250,BLDC,,,,,,,,25 kmph,,,Automatic,,,,48,24,1.152,1.152
+141,SUPER ECO Super Eco T1,56772,56772,60 V/21 Ah,Lithium-ion,Electric Bikes,70 -80 km/charge,,Hub Motor,,,,,,,,,800,,,,,,,Single,,55 kmph,,,Automatic,,,,60,21,1.26,1.26
+142,Omega Seiki Mobility Omega Sharq,75600,75600,60 V / 29 Ah,Lithium-Ion,Electric Bikes,70 -95 Km/charge,,,,,,16,,,,,250,BLDC Hub Motor,1 Years,,,,,Single,,25 kmph,,,,"Front :-3.00-10	Rear :-3.00-10",,,60,29,1.74,1.74
+143,One Moto Commuta,130000,130000,60 V/27.5 Ah,Lithium-Ion,Electric Bikes,80 km/charge,,Hub Motor,,,,,102 kg,150 kg,,,2000,Brushless DC,,,,,,Single,,55 kmph,,,,"Front :-3.50-10,	Rear :-3.50-10",,,60,27.5,1.65,1.65
+144,Shema Eagle,71000,102000,"51.2 V, 31.2 Ah",Lithium Ion,Electric Bikes,160 km/charge,,Hub Motor,,,,10 Degree,,150 kg,,,250,,,2,,,,Single,,25 kmph,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,51.2,31.2,1.59744,1.59744
+145,Birla JF,163000,231000,105 Ah,Lithium Ion,Electric Bikes,,,,,,,,,,,,,,,,,,,Split,,,,,Automatic,,,,,105,,
+146,Earth Energy EV Evolve Z,130000,130000,96 Ah,Lithium Ion,"Electric Bikes, Sports Bikes",100 km/charge,,Chain Drive,Yes,,,15 Â°,,,56 Nm,,,,,,,,,Split,,95 kmph,,,,,,,,96,,
+147,Cyborg Bob-e,94999,94999,72 V/2.88 kWH,BMS Battery,Electric Bikes,110 km/charge,,Hub Drive,,,,,,150 kg,,,8500,BLDC,3 YEARS,,110 km/charge,,,Single,,85 kmph,,,Automatic,"Front :-120/70-12,	Rear :-120/70-12",,2.88,,,,2.88
+148,Hero Electric Atria,77690,77690,51.2 V/30 Ah,Li-ion,Electric Bikes,85 km/charge,,Hub Motor,,,,,,,,,250,,,,,,,Single,,25 kmph,,,Automatic,,,,51.2,30,1.536,1.536
+149,Jitendra JMT 1000 3K,84417,84417,3.120 Kwh,Lithium Ion,Electric Bikes,126 km/charge,,Hub Motor,,,,7 Degree,90 kg,150 kg,,IP 65,1000,BLDC,3 Yearrs,2,,,,Split,Yes,51.93 kmph,,,Automatic,"Front :-90/90-10	Rear :-90/90-10",,3.12,,,,3.12
+150,Crayon Zeez,48000,58000,60 V,Lithium-ion,Electric Bikes,,,Hub Motor,,,,,,150 kg,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,,,,
+151,Prevail Electric Elite,130000,130000,nan,Lithium-ion,Electric Bikes,220 km/charge,,,,,,30Â°,,200 kg,,,1000,,,,,,,Single,,80 kmph,,,,"Front :-3.5-12	Rear :-3.5-12",,,,,,3
+152,Birla XL,152000,152000,nan,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Split,Yes,,,,Automatic,"Front :-120/70-12	Rear :-120/70-12",,,,,,
+153,BattRE Electric gps:ie,73900,73900,48 V / 24 Ah,Lithium Ion,Electric Bikes,65 km/charge,,Hub Motor,,,,,60 kg,,,,,BLDC,,,,,,Single,,,,,Automatic,"Front :-3.00-10,	Rear :-3.00-10",,,48,24,1.152,1.152
+154,Benling Falcon,69540,69540,60 V / 30 Ah,Lithium-ion,Electric Bikes,70-75 km/charge,,Hub Motor,,,,8 Degree,,248 kg,,,250,BLDC,,,70-75 km/charge,,65-70 km/charge,Single,Yes,25 kmph,,,Automatic,"Front :-90/90-10	Rear :-90/90-10",,,60,30,1.8,1.8
+155,Ujaas eGo Li,50880,53880,60 V/ 26 Ah,Lithium Ion,Electric Bikes,75 km/charge,,Hub Motor,,,,,,,,,250,,,,,,,Single,,,,,Automatic,"Front :-3.10-10,	Rear :-3.10-10",,,60,26,1.56,1.56
+156,GT Drive Plus,103000,103000,60 V / 42 Ah,Lithium Ion,Electric Bikes,100-110 km/charge,,Hub Motor,,,,15 Degree,88 kg,160 kg,,,1200,BLDC,36 Months,1,100-110 km/charge,80-90 km/charge,65-70 km/charge,Single,,55-60 kmph,,,Automatic,"Front :-3.00 - 10	Rear :-3.00 - 10",,,60,42,2.52,2.52
+157,BattRE Electric Storie,89600,89600,3.1 kWh,,Electric Bikes,132 km/charge,,,,,,,,,,,,,,,,,,Single,,,,,Automatic,,,3.1,,,,3.1
+158,Gemopai Ryder,60000,84302,48 V / 40 Ah,Lithium-ion,Electric Bikes,90-120 km/charge,,,,,,15Â°,,150 kg,,,250,Brushless Motor,,,,,,Single,Yes,25 kmph,,,Automatic,"Front :-90-100/10	Rear :-90-100/10",,,48,40,1.92,1.92
+159,Viertric Mist,72000,72000,48 V/26 Ah,Lithium Ion,Electric Bikes,60-70 km/charge,,,,,,,,150-200 kg,,,250,BLDC,1 Year,,,,,Single,,42-57 kmph,,,,"Front :-3.00-10,	Rear :- 3.00-10",,,48,26,1.248,1.248
+160,Okaya Faast F2F,83999,83999,60 V / 36 Ah,LFP,Electric Bikes,70-80 km/charge,,Hub Motor,Yes,,,,,,,,800,BLDC,,1,,,,Single,,45-55 kmph,,,Automatic,,IP67,,60,36,2.16,2.16
+161,Birla Electro,76109,110000,35 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,Yes,,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,60,35,,2.1
+162,Birla V6,160000,228000,105 Ah,Lithium Ion,Electric Bikes,,,,,,,,,,,,,,,,,,,Split,,,,,Automatic,,,,,105,,
+163,Komaki XGT CAT 2.0,96207,102000,72 V / 31 Ah,Lithium Ion,"Electric Bikes, Moped Bikes",95-100 km/charge,,,,,,,,350 Kg,,,,,,,,,,Single,,,,,Automatic,,,,72,31,2.232,2.232
+164,Deltic Legion,62490,88990,60.8 V / 30 Ah,Lithium-Ion,Electric Bikes,70 -100 km/charge,,Hub Motor,,,,7 Degree,59 kg Withoit Bettery,,,,250,BLDC,1 Years,1,,,,Single,,25 Kmph,,,Automatic,"Front :-90/90 - 12	Rear :-90/100 - 12",,,60.8,30,1.824,1.824
+165,Thunderbolt Electra,79999,79999,2.4 Kw,Lithium-Ion,Electric Bikes,110 - 120 km/charge,,,,,,,,150 kg,,,,,,,,,,Single,,55 Kmph,,,,"Front :-90/90-12	Rear :-90/90-12",,,,,,1.9
+166,Gemopai Ryder SuperMax,79999,79999,60 V / 30 Ah,Lithium Ion,Electric Bikes,100 km/charge,1600 W,Hub Motor,,,,20Â°,80 kg,150 kg,,,2700,BLDC,,,,,,Single,Yes,60 kmph,,,,"Front :-90/100-10,	Rear :- 90/100-10",,,60,30,1.8,1.8
+167,Greta Electric Greta Harper ZX Series-I,41999,41999,nan,,Electric Bikes,80 km/charge,,Hub Motor,Yes,,,,,,,,,BLDC,,,100 km/charge,80 km/charge,70 km/charge,Single,,,,,Automatic,,,,,,,
+168,Evolet Polo,69999,69999,1.5 Kwh,,Electric Bikes,80-100 km/charge,,Hub Motor,,,,9Â°,76 kg,150 kg,,,250,BLDC,1 Year 6 Months,,,,,Single,,25 kmph,,,,"Front :-90/100-10,	Rear :-90/100-10",,1.5,,,,1.5
+169,Ola S1 Pro,105000,105000,4 kWh,,Electric Bikes,181 km/charge,5.5 kw,Belt Drive,Yes,,,15Â°,125 kg,,,,8500,Mid Drive IPM,,,170 km/charge,,,Single,,116 kmph,58 Nm,,Automatic,"Front :- 110/70-12,Â 	Rear :-Â 110/70-12",IP67,4,,,,4
+170,Okaya Freedum,74900,74900,1.4 kWh,Lithium Ion,Electric Bikes,70-75 km/charge,250 W,Hub Motor,Yes,,,7 Degree,,,,,250,BLDC,3 Years,2,,,,Single,Yes,25 kmph,,,Automatic,,,1.4,,,,1.4
+171,Ampere Zeal EX,75000,75000,2.2 kWh,Lithium Ion,Electric Bikes,120 km/charge,1200,Hub Motor,,,,,80 kg,150 kg,,,1800,BLDC,,,,,,Single,,50Â±5 Kmph,19 Nm,,,"Front :-3 - 10	Rear :-3 - 10",,2.2,,,,2.2
+172,GRP EV 11 Mini,74500,74500,60 V 25 Ah,LITHIUM ION,Electric Bikes,60-70 km/charge,,Hub Drive,,,,,75 kg,,,,250,,,,,,,Single,,,,,Automatic,"Front :-100/90-10	Rear :-100/90-10",,,60,25,1.5,1.5
+173,Birla Spark,69182,101000,35 Ah,Lithium Ion,Electric Bikes,,,Hub Motor,,,,,,,,,,BLDC,,,,,,Single,Yes,,,,Automatic,"Front :-3.00-10	Rear :-3.00-10",,,,35,,
+174,GRP EV 11 Maxx,82000,82000,60 V 30 AH / 32 AH,LITHIUM ION,Electric Bikes,90-100 km/charge,,Hub Drive,,,,,80 kg,,,,250,,,,,,,Single,,,,,Automatic,"Front :-100/90-10	Rear :-100/90-10",,,60,32,1.92,1.92
+175,Stella Automobili SA 1000,68000,75000,nan,Lithium Ion,Electric Bikes,60-70 km/charge,,Hub Motor,,,,,,150 kg,,,250,BLDC,2 Year,,,,,Single,,,,,Automatic,"Front :-3.00-10,	Rear :- 3.00-10",,,,,,
+176,Fidato Evtech Loder,83490,83490,1.44 KWH,Lithium-Ion,"Electric Bikes, Moped Bikes",60-70 km/charge,,Hub Motor,,,,,,180 kg,,,,Brushless DC,,,,,,Single,,,,,,"Front :-90/100-10	Rear :-90/100-10",,1.44,,,,1.44
+177,Hero Electric Eddy,72000,72000,51.2V / 30 Ah,Lithium-ion,Electric Bikes,85 km/charge,,Hub Motor,,,,,60 kg,,,,250,BLDC,,,,,,Single,,25 kmph,,,Automatic,"Front :-90/90-12,	Rear :-90/90-12",,,51.2,30,1.536,1.536
+178,Zelio Gracy i,56825,59755,60 V/26-40 Ah,Lithium Ion,Electric Bikes,60-120 km/charge,,,,,,,118 kg,150 kg,,,,,,,,,,Single,,,,,,"Front :-90/100-10,	Rear :-90/100-10",,,60,40,2.4,2.4
+179,Zelio Gracy,56675,59755,60 V/26-40 Ah,Lithium Ion,Electric Bikes,60-120 km/charge,,,,,,,118 kg,150 kg,,,,,,,,,,Single,,,,,,"Front :-90/100-10,	Rear :-90/100-10",,,60,40,2.4,2.4
+180,Joy e-bike Gen Next Nanu Plus,112000,112000,60 V / 36.4 Ah,Lithium-Ion,Electric Bikes,100 km/charge,,Hub Motor,,,,7Â°,85 kg,150 kg,,,1500,Brushless DC,,,,,,Single,,55 kmph,,,Automatic,"Front :-300-10	Rear :-3.00-10",,,60,36.4,2.184,2.184
+181,Joy e-bike Wolf Plus,116000,116000,60 V / 35.4 Ah,Lithium-Ion,Electric Bikes,100 km/charge,,Hub Motor,,,,7Â°,85 kg,150 kg,,,1500,Brushless DC,,,,,,Single,,55 kmph,,,Automatic,"Front :-300-10	Rear :-3.00-10",,,60,35.4,2.124,2.124
+182,Kabira Hermes 75,89600,89600,60 V/40 Ah,Lithium Ion,Electric Bikes,120 km/charge,4000 W,Hub Motor,,,,,,,,,2500,BLDC,,,,,,Single,,,,,Automatic,,,,60,40,2.4,2.4
+183,GRP EV 11 Pro,84000,84000,60 V 30 AH / 32 AH,LITHIUM ION,Electric Bikes,90-100 km/charge,,Hub Drive,,,,,75 kg,,,,250,,,,,,,Single,,,,,Automatic,"Front :-100/90-10	Rear :-100/90-10",,,60,32,1.92,1.92
+184,Kabira Mobility Kollegio Neo,55790,55790,48 V/24 Ah,Lithium Ion,Electric Bikes,100 km/charge,,Hub Motor,,,,,,,,,250,BLDC,1 Year,,,,,Single,,24 kmph,,,Automatic,,,,48,24,1.152,1.152
